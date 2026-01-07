@@ -1,0 +1,49 @@
+Key Responsibilities:
+
+Linux Systems Administration
+Install, configure, harden, and maintain Linux systems (RHEL, CentOS, Ubuntu).
+Manage system upgrades, patch cycles, kernel tuning, and storage configuration.
+Automation & Provisioning
+Create and manage infrastructure-as-code (IaC) using Ansible, Terraform, and shell/Python scripts.
+Provision bare-metal and virtual infrastructure using Foreman, MAAS, or Cobbler.
+Monitoring & Observability
+Set up and optimize tools like Prometheus, Grafana, Zabbix, Nagios, or Telegraf.
+Generate insights into infrastructure and service performance to detect and resolve anomalies proactively.
+Security & Compliance
+Enforce security best practices including SELinux, firewalls, and regular vulnerability assessments.
+Configure secure access controls (LDAP, SSSD, PAM) and audit policies.
+Containerization & Orchestration
+Deploy and manage scalable workloads using Docker and Kubernetes.
+Design CI/CD workflows and infrastructure using Jenkins, GitLab CI, or ArgoCD.
+GPU & HPC Technologies
+Configure and optimize GPU clusters using NVIDIA cards and CUDA libraries.
+Set up GPUDirect RDMA and NVLink for ultra-low latency data transfer in distributed AI/ML environments.
+HPC/GPU Benchmarking.
+Tune performance for parallel workloads and manage Slurm or PBS batch schedulers.
+Virtualization & Cloud Integration
+Work with KVM, VMware, and Proxmox.
+Manage hybrid and public cloud infrastructure via AWS, Azure, or Google Cloud.
+Implement cloud orchestration and auto-scaling infrastructure for compute-intensive workloads.
+Collaboration & Mentorship
+Actively collaborate with DevOps, engineering, and research teams to align system design with workload demands.
+Mentor junior team members and lead knowledge-sharing initiatives.
+Documentation & Reporting
+Maintain clear documentation for procedures, system configurations, and architecture diagrams
+Create reports on uptime, security compliance, system health, and capacity planning.
+Requirement & Qualification:
+
+Deep expertise in Linux system administration and performance tuning.
+Strong scripting skills in Bash, Python, or Perl.
+Solid understanding of TCP/IP, DNS, DHCP, firewalls, and general network principles.
+Hands-on experience with Ansible, Terraform, or similar tools.
+Familiarity with Grafana, Prometheus, Zabbix, and log monitoring stacks (e.g., ELK, Loki).
+Good to have skills:
+
+Experience with GPU-accelerated workloads (NVIDIA, CUDA, GPUDirect RDMA).
+Knowledge of Slurm, PBS, or HPC job schedulers.
+Background in DevOps practices, including GitOps, CI/CD pipelines, and Infrastructure-as-Code.
+Prior experience working with large-scale, high-availability systems.
+Analytical mindset with a knack for debugging complex systems.
+Excellent communication and mentoring skills.
+Empathy and patience when dealing with diverse users—tech-savvy or not.
+Ability to weigh system design trade-offs and make pragmatic choices.
