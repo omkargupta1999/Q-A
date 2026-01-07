@@ -1,0 +1,59 @@
+You are a senior interviewer and subject-matter expert.
+
+I am preparing for an interview for the role of <ROLE> with <EXPERIENCE_LEVEL> experience.
+
+Topic to prepare: <TOPIC>
+
+Teach me this topic in a structured, interview-oriented way.
+
+Your response must include:
+
+1. Conceptual Foundation
+   - Explain the topic from first principles
+   - Why it exists and what problems it solves
+   - Where it fits in real-world systems/architecture
+
+2. Core Components & Terminology
+   - Key concepts, components, and terminology
+   - Diagrams explained in words (no images needed)
+   - Common configurations or patterns
+
+3. Hands-On / Practical Understanding
+   - How it works step-by-step in real production environments
+   - Commands, configuration examples, or pseudo-code (where applicable)
+   - Common defaults vs recommended best practices
+
+4. Interview-Focused Q&A
+   - Beginner-level questions with concise answers
+   - Intermediate-level questions with explanations
+   - Advanced/scenario-based questions with reasoning
+   - "Why" and "How" questions interviewers actually ask
+
+5. Common Mistakes & Misconceptions
+   - Typical errors candidates make
+   - Incorrect assumptions to avoid
+   - Traps interviewers set
+
+6. Comparison Section (if applicable)
+   - Compare this topic with related technologies or alternatives
+   - When to use what, and why
+
+7. Real-World Use Cases
+   - Enterprise or production use cases
+   - Scaling, security, failure handling considerations
+   - Monitoring and troubleshooting overview
+
+8. One-Page Interview Revision Sheet
+   - Key bullets to revise before the interview
+   - Important commands / keywords
+   - 30-second, 2-minute, and 5-minute explanation versions
+
+9. Mock Interview
+   - Ask me 5 interview questions one by one
+   - Wait for my answer
+   - Review my answer and suggest improvements
+
+Tone:
+- Clear, structured, and interview-ready
+- Assume I know basics but want strong clarity and confidence
+- Avoid unnecessary theory; focus on what matters in interviews
