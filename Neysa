@@ -47,3 +47,24 @@ Analytical mindset with a knack for debugging complex systems.
 Excellent communication and mentoring skills.
 Empathy and patience when dealing with diverse users—tech-savvy or not.
 Ability to weigh system design trade-offs and make pragmatic choices.
+
+
+
+===================================================================
+
+
+1. types of virtualvm networks ?
+2. what is bridge netwok and difference btw bridge and host-only network?
+3. How to extend the LV in linux server ?
+4. What is kubernetes and why companies are using kubernetes ?
+5. What is prometheous and what is the working flow of prometheous ?
+6. What is TSDB in prometheous and exporter ?
+7. difference btw agents and exporter in prometheous ?
+8. Way to setup the prometheous ?
+9. How to do the cluster setup of Kubernetes and which tool you will use ?
+10. What is the role of kubelet in k8s ?
+11. What will happen if kubelet get faileds ?
+12. in bare metal server how you will troubleshoot if any network connection issue occured ?
+
+
+===========================================================================================================
